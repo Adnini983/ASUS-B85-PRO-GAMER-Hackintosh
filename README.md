@@ -16,6 +16,8 @@
 |HDD|HGST HTS545050A7E380|500 GB|
 |iGPU|Intel HD Graphics 4600|2048 MB|
 |dGPU|NVIDIA GeForce GT 740(GK107)|1024 MB|
+|网卡1|Intel I217-V(内建)|1000 Mbps|
+|网卡2|RealTek RTL8169(PCI)|1000 Mbps|
 |声卡|RealTek ALC1150|8声道|
 |操作系统|macOS Big Sur|11.0-11.7.10|
 |BIOS|American Megatrends UEFI|2103 x64(08/19/2014)|
